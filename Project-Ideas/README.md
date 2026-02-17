@@ -146,5 +146,5 @@ Curated PHP + MySQL project ideas organized by difficulty. Each includes feature
 
 ---
 
-[← Back to Master README](../README.md)
+[← Back to Master README](https://github.com/Coddiction-101/php-fullstack/tree/main)
 
