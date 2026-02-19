@@ -89,7 +89,7 @@ Phase 5 - Final Year Project   (Month 5-6)
 
 ## 🔗 Related Repos
 - [🚀 cpp-projects](https://github.com/yourusername/cpp-projects) - C++ projects portfolio
-- [💡 cpp-project-ideas](https://github.com/yourusername/cpp-project-ideas) - C++ project ideas bank
+- [💡 cpp-project-ideas](https://github.com/Coddiction-101/cpp_projects/tree/main/cpp-project-ideas) - C++ project ideas bank
 
 ---
 
