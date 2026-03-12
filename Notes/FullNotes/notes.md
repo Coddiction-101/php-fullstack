@@ -3444,10 +3444,4 @@ Superglobals:
 
 ---
 
-*Notes maintained by: Your Name*
-*Last Updated: 2024*
-*PHP Version Reference: PHP 8.x*
-
----
-
 **⭐ Star this repo if these notes helped you!**
