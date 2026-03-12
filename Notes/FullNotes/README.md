@@ -1,6 +1,6 @@
 # 🐘 PHP Mastery Notes — Complete Guide for Interviews, Projects & Placements
 
-> **Author's Note:** These notes cover PHP from absolute scratch to advanced level. Every concept is explained simply with real examples. Perfect for GitHub storage, quick revision, interviews, and placement preparation.
+> **Coddiction:** These notes cover PHP from absolute scratch to advanced level. Every concept is explained simply with real examples. Perfect for GitHub storage, quick revision, interviews, and placement preparation.
 
 ---
 
