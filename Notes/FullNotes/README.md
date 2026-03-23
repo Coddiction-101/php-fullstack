@@ -6,8 +6,8 @@
 
 ## 📚 Table of Contents
 
-1. [Introduction to PHP](#1-introduction-to-php)
-2. [PHP Setup & Environment](#2-php-setup--environment)
+1. [Introduction to PHP](#1-introduction-to-php) :white_check_mark:
+2. [PHP Setup & Environment](#2-php-setup--environment) 
 3. [PHP Syntax Basics](#3-php-syntax-basics)
 4. [Variables & Data Types](#4-variables--data-types)
 5. [Operators](#5-operators)
