@@ -1,15 +1,16 @@
 # Day 01 - PHP Basics
 
-Today I learned:
+## Topics Learned
 - Variables
 - Data types
 - Conditions
 - Loops
 
 ## Projects
-- Even Odd Checker
-- Table Generator
-- Number Classifier
-- Calculator
-- Name List
-- Pattern Printer
+
+- [x] Even Odd Checker ✅
+- [ ] Table Generator
+- [ ] Number Classifier
+- [ ] Calculator
+- [ ] Name List
+- [ ] Pattern Printer
